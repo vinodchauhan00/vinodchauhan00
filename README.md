@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodchauhan00&label=Profile%20views&color=0e75b6&style=flat" alt="vinodchauhan00" /> </p>
 
-- 🌱 I’m currently learning ** Web Dev and Java ,DSA**
+- 🌱 I’m currently learning  Web Dev and Java + DSA
 
 - 📫 How to reach me **vinodchauhan3809@gmail.com**
 
