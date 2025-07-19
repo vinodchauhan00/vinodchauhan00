@@ -1,4 +1,14 @@
+# 💫 Hi 👋, I'm Vinod Chauhan
+**A passionate BCA Final || DevOps Engineer || Vinod Chauhan from India**
 
+Email Me 👉 ✉️ **vinodchauhan3809.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** portfolio and blogging website
+- 🌱 **I’m currently learning:** Backend 
+- 🤔 **I’m looking for help with:** front end developer
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vinodchauhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vinod_chauhan__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinodchauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinodchauhan3809@gmail.com) 
 
