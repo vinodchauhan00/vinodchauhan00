@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **vinodchauhan3809.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** portfolio and blogging website
-- 🌱 **I’m currently learning:** Backend 
+- 🔭 **I’m currently working on:** BusMonitor Pro
+- 🌱 **I’m currently learning:** Full Stack Development 
 - 🤔 **I’m looking for help with:** front end developer
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
