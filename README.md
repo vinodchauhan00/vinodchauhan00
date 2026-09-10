@@ -1,43 +1,48 @@
-# 💫 Hi 👋, I'm Vinod Chauhan
-**A passionate BCA Final || DevOps Engineer || Vinod Chauhan from India**
-
-Email Me 👉 ✉️ **vinodchauhan3809.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** BusMonitor Pro
-- 🌱 **I’m currently learning:** Full Stack Development 
-- 🤔 **I’m looking for help with:** front end developer
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vinodchauhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vinod_chauhan__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinodchauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinodchauhan3809@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinodchauhan00&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vinodchauhan00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodchauhan00&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vinodchauhan00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# Hi, I'm Vinod Chauhan 👋
+
+**Software Engineer** based in 🇮🇳 India — building with **MERN Stack** and exploring **DevOps / Cloud** (Linux, AWS)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinodchauhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vinod_chauhan__) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vinodchauhan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinodchauhan3809@gmail.com)
+
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinodchauhan00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
+
+### About
+- 💼 1+ year of professional experience as a Software Engineer
+- 🔭 Currently building **BusMonitor Pro** — real-time fleet monitoring system (Stremex) handling live data for **10,000+ buses** across JBM & PMI fleets
+- 🌱 Currently learning **AWS (EC2, S3, IAM, CloudWatch)** and **Linux**
+- 🤝 Open to collaborating on frontend & DevOps projects
+- 💬 Ask me about MERN Stack, AWS basics, server monitoring
+- 📫 vinodchauhan3809@gmail.com
+
+### Tech Stack
+`Java` `JavaScript` `HTML5` `CSS3` `PHP` `MongoDB` `MySQL` `Tailwind CSS` &nbsp;|&nbsp; `Linux` `AWS` `Git & GitHub`
+
+### 🚌 Featured Project — BusMonitor Pro
+Real-time fleet monitoring system built on **Stremex (JT808 protocol)**, live-tracking **10,000+ buses** across Delhi NCR and other major cities.
+- 📍 Live location tracking for every bus, city-wide
+- 🎥 Live trip recording & route playback
+- 🚨 Automated alerts for route deviation, device disconnects & other anomalies
+- 🔗 Integrated Stremex GPS tracking protocol (JT808) for real-time location and telemetry data ingestion from a fleet of 10,000+ buses
+
+### GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=vinodchauhan00&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodchauhan00&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=vinodchauhan00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
