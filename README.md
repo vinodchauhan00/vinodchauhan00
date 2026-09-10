@@ -5,6 +5,7 @@ I'm a **Software Engineer** from 🇮🇳 India, working across **MERN Stack dev
 
 - 🔭 **Currently working on:** BusMonitor Pro — a real-time fleet monitoring system (Stremex) handling live data for **10,000+ buses** across JBM & PMI fleets
 - 🌱 **Currently learning:** AWS (EC2, S3, IAM, CloudWatch) and Linux fundamentals
+- 🖥️ **Managing:** 3 production servers (Windows Server) for company infrastructure
 - 👯 **Looking to collaborate on:** frontend & DevOps/open-source projects
 - 💬 **Ask me about:** MERN Stack, AWS basics, Server Monitoring
 - 📫 **Reach me at:** vinodchauhan3809@gmail.com
