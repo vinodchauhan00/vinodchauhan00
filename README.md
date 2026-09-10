@@ -34,20 +34,6 @@ A real-time fleet monitoring platform built on **Stremex (JT808 protocol)**, liv
 - 🚨 **Smart Alerts:** instant notifications for route deviation, device disconnects, and other anomalies
 - 🔗 **Protocol Integration:** integrated Stremex GPS tracking protocol (JT808) for real-time location and telemetry data ingestion from a fleet of 10,000+ buses
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vinodchauhan00&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=vinodchauhan00&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodchauhan00&theme=dark&hide_border=false&layout=compact)
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vinodchauhan00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 📈 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=vinodchauhan00&theme=react-dark)
-
 ### 🌐 Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinodchauhan3809@gmail.com)
